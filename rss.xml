@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0'>
+<channel>
+  <title>Max Correia's Nerd Sh*t</title>
+  <language>en-us</language>
+  <description>Miscallaneous musings of some guy on the internet.</description>
+  <link>https://maxcorreia.github.io/rss.xml</link>
+  
+  <item>
+  <title>On the Subject of Desktops on Linux</title>
+  <description>Self-hatred is more commmon than you think.</description>
+  </item>
+</channel>
+</rss>
